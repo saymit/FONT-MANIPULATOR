@@ -1,0 +1,29 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 20px;
+    box-shadow: 5px 5px rgb(199, 159, 159);
+    font-family: 'Playfair Display', serif;
+}
+
+.NOTE{
+    font-size: 14px;
+    color: rgb(155, 102, 102);
+    font-family: 'PT Sans', sans-serif;
+}
+
+.footer{
+    width: 100%;
+    bottom: 0px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border: solid 5px black;
+    border-radius: 5%;
+    box-shadow: 7px 7px rgb(118, 118, 238);
+}
